@@ -1,6 +1,6 @@
-SET ISO8859-2
+SET UTF-8
 
-TRY ABCDEFGHIJKLMNOPQRSTUVWXYÊ∆Ë»–æÆabcdefghijklmnopqrstuvwxy
+TRY ABCDEFGHIJKLMNOPQRSTUVWXYƒáƒÜƒçƒåƒëƒê≈æ≈Ωabcdefghijklmnopqrstuvwxy
 
 SFX A Y 13
 SFX A 0 a [^aeiou]
@@ -20,7 +20,7 @@ SFX A e em e
 
 SFX B Y 5
 SFX B ti m ti
-SFX B ti π ti
+SFX B ti ≈° ti
 SFX B ti mo ti
 SFX B ti te ti
 SFX B ti u ti
@@ -29,11 +29,11 @@ SFX C Y 4
 SFX C ti h ti
 SFX C ti smo ti
 SFX C ti ste ti
-SFX C ti πe ti
+SFX C ti ≈°e ti
 
 SFX D Y 5
 SFX D ti h ti
-SFX D ti πe ti
+SFX D ti ≈°e ti
 SFX D ti smo ti
 SFX D ti ste ti
 SFX D ti hu ti
@@ -47,14 +47,14 @@ SFX E ti la ti
 
 SFX F Y 5
 SFX F ti h ti
-SFX F ti πe ti
+SFX F ti ≈°e ti
 SFX F ti smo ti
 SFX F ti ste ti
 SFX F iti hu ti
 
 SFX G Y 5
 SFX G ti m ti
-SFX G ti π ti
+SFX G ti ≈° ti
 SFX G ti mo ti
 SFX G ti te ti
 SFX G iti e iti
