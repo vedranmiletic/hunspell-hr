@@ -1,6 +1,6 @@
 SET UTF-8
 
-TRY ABCDEFGHIJKLMNOPQRSTUVWXYćĆčČđĐžŽabcdefghijklmnopqrstuvwxy
+TRY aionerjmtsulkpvdzAgčcbšhćžfEMđGCILHDJSKPBŠTVČNRFOZŽWyUĐxwYĆQqX
 
 SFX A Y 13
 SFX A 0 a [^aeiou]
